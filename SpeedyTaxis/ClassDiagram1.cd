@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SpeedyTaxis.AddForm">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AoAAAAAEACAAAhAAAAigIAACAAAAIAAAgAEgBACQAAA=</HashCode>
+      <FileName>AddForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpeedyTaxis.AssignTrainingForm">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GEAAAAQQACIAARESAhCAAAACAABQAAAABAEiAAQAAAA=</HashCode>
+      <FileName>AssignTrainingForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpeedyTaxis.CreateSessionForm">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAYAAACAAABAAAACAACACAAAAAQgAAAEgAAAABAA=</HashCode>
+      <FileName>CreateSessionForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpeedyTaxis.DisciplinaryRecordForm">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACIAoACAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DisciplinaryRecordForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpeedyTaxis.LogForm">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LogForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpeedyTaxis.LoginForm">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACAAABAAAACAAAACAAQAAAAAgAGgAAAAABA=</HashCode>
+      <FileName>LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpeedyTaxis.MainForm">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEIBCYAQACAABBAAAAKQAACGgAkAAAgAIAGgAQBAKAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpeedyTaxis.ProfileForm">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAACjAAEBACAACAACBCAAAAAABIAAEjAAQEAAA=</HashCode>
+      <FileName>ProfileForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpeedyTaxis.UpdateForm">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAIAgKzEECBIEABCBAwxCCAYOAIIAIYMjhARUGEQ=</HashCode>
+      <FileName>UpdateForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
